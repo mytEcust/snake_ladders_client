@@ -1,7 +1,7 @@
 {
 	"description": "项目配置文件。",
 	"setting": {
-		"urlCheck": false,
+		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -9,8 +9,8 @@
 	},
 	"compileType": "game",
 	"libVersion": "game",
-	"appid": "touristappid",
-	"projectname": "demo",
+	"appid": "wxfec3c0d6c1f3e817",
+	"projectname": "试一试",
 	"condition": {
 		"search": {
 			"current": -1,
@@ -21,13 +21,12 @@
 			"list": []
 		},
 		"game": {
-			"currentL": -1,
-			"list": []
+			"list": [],
+			"current": -1
 		},
 		"miniprogram": {
 			"current": -1,
 			"list": []
 		}
-	},
-	"isGameTourist": true
+	}
 }
